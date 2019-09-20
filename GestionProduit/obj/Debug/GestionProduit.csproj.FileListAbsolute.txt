@@ -1,0 +1,3 @@
+D:\P.O.O\GestionSalaries\GestionProduit\GestionProduit\bin\Debug\GestionProduit.exe.config
+D:\P.O.O\GestionProduit\GestionProduit\bin\Debug\GestionProduit.exe.config
+D:\P.O.O\GestionProduit\GestionProduit\obj\Debug\GestionProduit.csprojResolveAssemblyReference.cache
